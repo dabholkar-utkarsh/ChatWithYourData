@@ -1,6 +1,6 @@
 # ChatWithYourData
 
-![ChatWithYourData Interface](images/MAP.jpeg)
+![ChatWithYourData road map](MAP.jpeg)
 
 ## Overview
 ChatWithYourData is an interactive Jupyter notebook designed to facilitate easy conversations with your data. It combines the power of data analysis with user-friendly chat interfaces, enabling users to query, manipulate, and visualize their data through simple text commands.
